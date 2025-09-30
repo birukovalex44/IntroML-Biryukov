@@ -6,5 +6,5 @@
 В данной лабораторной работе с помощью библиотеки Pandas необходимо провести анализ заданного датасета в зависимости от различных условий и заданий.
 
 ## Материалы по лабе
-[Файл с созданными программками](https://github.com/birukovalex44/IntroML-Biryukov/blob/main/homework_1/homework2_Biryukov.ipynb)
+[Файл с созданными программками](https://github.com/birukovalex44/IntroML-Biryukov/blob/main/homework_1/homework1_Biryukov.ipynb)
 
